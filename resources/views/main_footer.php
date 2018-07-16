@@ -1,4 +1,4 @@
- <footer class="py-5 bg-dark">
+ <footer class="py-5"style="background-color:red;">
       <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Blood Bank System 2018</p>
       </div>

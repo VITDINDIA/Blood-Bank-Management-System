@@ -4,7 +4,7 @@ class session
 public $signed_in=false;public $user_id;    
 function __construct()
         {
-session_start();  
+@session_start();  
 $this->check_user_login_in();
         }    
 public function check_user_login_in()
